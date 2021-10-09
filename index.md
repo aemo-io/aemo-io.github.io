@@ -1,7 +1,7 @@
 ---
-title: aemo.io - Mortgages made easy.
+title: aemo.io
 layout: home
-description: Landing page
+description: Mortgages made easy.
 intro_image: "images/illustrations/undraw_houses3_xwf7.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
